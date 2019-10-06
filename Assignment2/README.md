@@ -4,6 +4,6 @@ I have dumped my train and test sentences in 2 txt files called traindump and te
 I have chosen length of a sentence as 10 for the ngram models text generation task. 
 References:
 https://stackoverflow.com/questions/51956000/what-does-keras-tokenizer-method-exactly-do
-https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/ for deep learning tasks of LSTMs and RNNs.
+https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/ for deep learning tasks of LSTMs and RNNs. It provides a detailed explanation on training word level neural language models. 
 Keras Documentation
 https://stackoverflow.com/questions/42943291/what-does-keras-io-preprocessing-sequence-pad-sequences-do
